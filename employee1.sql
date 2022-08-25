@@ -16,8 +16,8 @@ Designation varchar(10),
 Age numeric(2)
 );
 insert into emp1 values
-(1,'Rohit',6700,'Manager',24),
-(2,'Sunil',6200,'Engineer',27),
+(1,'Tonmoy',6700,'Manager',24),
+(2,'Puja',6200,'Engineer',27),
 (3,'Payal',6300,'Engineer',25),
 (4,'Kunal',6700,'Trainee',28),
 (5,'Sunita',6230,'Trainee',26),
