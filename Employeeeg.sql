@@ -9,8 +9,8 @@ MGR_Id integer(6),
 Department_Id numeric(4)
 );
 insert into Employeeeg values 
-(198,'ram','SH_CLERK',2600,2.5,124,50),
-(199,'Garry','SH_CLERK',2600,2.2,124,50),
+(198,'tonmoy','SH_CLERK',2600,2.5,124,50),
+(199,'puja','SH_CLERK',2600,2.2,124,50),
 (200,'William','AD_ASST',4400,1.3,101,10),
 (201,'Harsh','IT_PROG',6000,null,100,20),
 (202,'isha','AC_MGR',6500,null,210,20),
